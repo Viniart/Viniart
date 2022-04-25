@@ -3,16 +3,27 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Viniart)](https://github.com/Viniart)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicio-santos-28754a210/)](https://www.linkedin.com/in/vinicio-santos-28754a210/)
 
-### Sobre mim
+## Sobre mim
 Sou um desenvolvedor e instrutor {backend, frontend and mobile} apaixonado por tecnologia.
---> Técnico em Desenvolvimento de Sistemas.
+#### Técnico em Desenvolvimento de Sistemas.
 - 🔭 Cursando Sistemas de Informação e duelando com o Java e OracleDB.
 
+### Ferramentas e Tecnologias
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+### Aprendendo
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">       
 
 <div>
 <a href="https://github.com/Viniart">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniart&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <!--
