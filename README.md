@@ -18,9 +18,10 @@ Sou um desenvolvedor e instrutor {backend, frontend and mobile} apaixonado por t
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </div>
 ### Aprendendo
-
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>       
+</div>
 
 <div>
 <a href="https://github.com/Viniart">
