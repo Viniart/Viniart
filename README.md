@@ -5,24 +5,30 @@
 
 ## Sobre mim
 Sou um desenvolvedor e instrutor {backend, frontend and mobile} apaixonado por tecnologia.
-#### Técnico em Desenvolvimento de Sistemas.
-- 🔭 Cursando Sistemas de Informação e duelando com o Java e OracleDB.
+
+--> Técnico em Desenvolvimento de Sistemas.
+
+--> Cursando Sistemas de Informação e duelando com o Java e OracleDB.
 
 ### Ferramentas e Tecnologias
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-</div>
-### Aprendendo
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80"/>
 </div>
 
+### Aprendendo
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="80" height="80"/>       
+</div>
+
+<br>
+<br>
 <div>
 <a href="https://github.com/Viniart">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniart&layout=compact&langs_count=7&theme=dracula"/>
