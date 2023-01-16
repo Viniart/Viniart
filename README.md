@@ -31,11 +31,6 @@ Sou um desenvolvedor e instrutor {backend, frontend and mobile} apaixonado por t
 <br>
 <br>
 <div>
-<a href="https://github.com/Viniart">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniart&layout=compact&langs_count=9&theme=dracula"/>
-</div>
-
-![snake gif](https://github.com/Viniart/Viniart/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Viniart/Viniart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
