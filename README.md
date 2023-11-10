@@ -4,11 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicio-santos-28754a210/)](https://www.linkedin.com/in/vinicio-santos-28754a210/)
 
 ## Sobre mim
-Sou um desenvolvedor e instrutor {backend, frontend and mobile} apaixonado por tecnologia.
+Sou um desenvolvedor e instrutor {backend, frontend e mobile} apaixonado por tecnologia.
 
---> Técnico em Desenvolvimento de Sistemas.
+--> 🔭 Técnico em Desenvolvimento de Sistemas.
 
---> Cursando Sistemas de Informação e duelando com o Java e OracleDB.
+--> ⚡ Cursando Sistemas de Informação na FIAP.
 
 ### Ferramentas e Tecnologias
 
@@ -19,30 +19,18 @@ Sou um desenvolvedor e instrutor {backend, frontend and mobile} apaixonado por t
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="80" height="80"/>
-</div>
-
-### Aprendendo
-
-<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="80" height="80"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" height="80"/>  
 </div>
 
+## Aprendendo
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="80" height="80"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="80"/>  
+</div>
 <br>
 <br>
 <div>
-
-<!--
-**Viniart/Viniart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
