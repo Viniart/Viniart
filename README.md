@@ -12,6 +12,17 @@ Sou um desenvolvedor e instrutor {backend, frontend e mobile} apaixonado por tec
 
 --> 🏆 Apaixonado por aprender novas tecnologias, atualmente se dedicando em aprofundar nos aprendizados em Data Science e Inteligência Artificial, criando modelos de machine learning diversos e se aprofundando na utilização de ferramentas Python para criar modelos.
 
+## Qualificações Profissionais
+
+--> 💡 Técnico em Desenvolvimento de Sistemas pelo SENAI
+
+--> 💡 Finalizando Bacharel em Sistemas de Informação pela FIAP
+
+- Certificação em .NET, Banco de Dados Oracle com PL/SQL e Python pela FIAP
+- Badges em Data Science, IA Generativa e arquitetura de cloud pela Google
+
+<img alt="Pos-atom" height="100" wixth="100" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Logo.png" /> 
+
 <div align="center" style="display: inline_block"><br>
   <h1>STATS</h1>
    <a href="https://github.com/Viniart">
