@@ -26,9 +26,11 @@ Sou um desenvolvedor e instrutor {backend, frontend e mobile} apaixonado por tec
 <div align="center" style="display: inline_block"><br>
   <h1>STATS</h1>
    <a href="https://github.com/Viniart">
+     <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniart&show_icons=true&theme=tokyonight&include_all_commits=true&count_public=true"/>
 
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniart&hide_progress=true"/>
+  </div>
 </div>
 <h1>Ferramentas e Tecnologias</h1>
 
