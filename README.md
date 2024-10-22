@@ -8,7 +8,7 @@ Sou um desenvolvedor e instrutor {backend, frontend e mobile} apaixonado por tec
 
 --> 🔭 Com experiência em projetos corporativos diversos, já tendo atuado em diversos projetos utilizando as tecnologias Java, Angular, C# e React, entre outros, alguns projetos dos quais estão expostos nos meus repositórios, também com experiência em Engenharia de Software e organização de projetos e testes com Azure DevOps, além de pipelines de CI/CD utilizando GitHub Actions.
 
---> ⚡ Instrutor há cerca de 3 anos lecionando tecnologias como Git, C#, Java e Angular para turmas diversas, já tendo auxiliando dezenas de alunos no aprendizado dessas tecnologias.
+--> ⚡ Instrutor há cerca de 4 anos lecionando tecnologias como Git, C#, Java, Angular e Banco de Dados para turmas diversas, já tendo auxiliando centenas de alunos no aprendizado dessas tecnologias.
 
 --> 🏆 Apaixonado por aprender novas tecnologias, atualmente se dedicando em aprofundar nos aprendizados em Data Science e Inteligência Artificial, criando modelos de machine learning diversos e se aprofundando na utilização de ferramentas Python para criar modelos.
 
@@ -18,8 +18,8 @@ Sou um desenvolvedor e instrutor {backend, frontend e mobile} apaixonado por tec
 
 --> 💡 Finalizando Bacharel em Sistemas de Informação pela FIAP
 
-- Certificação em .NET, Banco de Dados Oracle com PL/SQL e Python pela FIAP
-- Badges em Data Science, IA Generativa e Arquitetura de Cloud pela Google
+- Certificação em .NET, Banco de Dados Oracle com PL/SQL, Python e Cloud pela FIAP
+- Badges e Certificates em Data Science, IA Generativa e Cloud pela Google
 
 <img alt="Pos-atom" height="100" wixth="100" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Logo.png" /> 
 
