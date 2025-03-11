@@ -4,21 +4,24 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicio-santos-28754a210/)](https://www.linkedin.com/in/vinicio-santos-28754a210/)
 
 ## Sobre mim
-Sou um desenvolvedor e instrutor {backend, frontend e mobile} apaixonado por tecnologia.
+Sou um desenvolvedor e instrutor Fullstack apaixonado por tecnologia.
 
---> 🔭 Com experiência em projetos corporativos diversos, já tendo atuado em diversos projetos utilizando as tecnologias Java, Angular, C# e React, entre outros, alguns projetos dos quais estão expostos nos meus repositórios, também com experiência em Engenharia de Software e organização de projetos e testes com Azure DevOps, além de pipelines de CI/CD utilizando GitHub Actions.
+--> 🔭 Com experiência em projetos corporativos diversos, já tendo atuado em diversos projetos utilizando as tecnologias **Java**, **C#**, **Angular**, **Typescript**, Bancos de Dados como **PostgreSQL**, **OracleDB** e **SQL Server** entre outros, alguns projetos dos quais estão expostos nos meus repositórios, também com experiência em Engenharia de Software e organização de projetos e testes com **Azure DevOps**, além de pipelines de CI/CD utilizando GitHub Actions, **Google Cloud** e **Azure**.
 
---> ⚡ Instrutor há cerca de 4 anos lecionando tecnologias como Git, C#, Java, Angular e Banco de Dados para turmas diversas, já tendo auxiliando centenas de alunos no aprendizado dessas tecnologias.
+--> ⚡ Instrutor há cerca de 5 anos lecionando tecnologias como Git, C#, Java, Angular e Banco de Dados para turmas diversas, já tendo auxiliando centenas de alunos no aprendizado dessas tecnologias.
 
---> 🏆 Apaixonado por aprender novas tecnologias, atualmente se dedicando em aprofundar nos aprendizados em Data Science e Inteligência Artificial, criando modelos de machine learning diversos e se aprofundando na utilização de ferramentas Python para criar modelos.
+--> 🏆 Apaixonado por aprender novas tecnologias, atualmente se dedicando em aprofundar nos aprendizados em **Inteligência Artificial**, criando modelos de machine learning diversos e se aprofundando na utilização de ferramentas **Python** para criar modelos, além da aplicação de **IA Generativa** e serviços de IA dentro de projetos (Backend e Frontend)
 
 ## Qualificações Profissionais
 
 --> 💡 Técnico em Desenvolvimento de Sistemas pelo SENAI
 
---> 💡 Finalizando Bacharel em Sistemas de Informação pela FIAP
+--> 💡 Bacharel em Sistemas de Informação pela FIAP
+
+--> 💡 Cursando Especialização em Arquitetura de Software na FIAP
 
 - Certificação em .NET, Banco de Dados Oracle com PL/SQL, Python e Cloud pela FIAP
+- Certificado AI 900
 - Badges e Certificates em Data Science, IA Generativa e Cloud pela Google
 
 <img alt="Pos-atom" height="100" wixth="100" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Logo.png" /> 
